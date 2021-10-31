@@ -1,6 +1,6 @@
 # Git and Github Course
 
-##This repo was used to learn git.
+## This repo was used to learn git.
 
 
 https://chisdorin.com/git/github
