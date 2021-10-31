@@ -1,3 +1,3 @@
 # learning-git
 
-This repo was used to learning to use Git.
+This repo was used to learn git.
